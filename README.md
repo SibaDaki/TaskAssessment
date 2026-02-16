@@ -68,8 +68,6 @@ Once the application is running,you will be able to access the interactive API d
 ## API Endpoints
 
 ### Tasks
-![Uploading image.png…]()
-
 
 #### Get All Tasks
 ```

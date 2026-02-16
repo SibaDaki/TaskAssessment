@@ -1,5 +1,4 @@
-﻿using System.Data.Entity.Core.Metadata.Edm;
-using TaskManagementAssesmentt.Entities;
+﻿using TaskManagementAssesmentt.Entities;
 
 namespace TaskManagementAssesmentt.Repositories.IRepository
 {
